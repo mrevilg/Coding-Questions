@@ -56,3 +56,9 @@ namespace getMissingLetters
     }
 }
 ```
+| Input Text | Output |
+| --- | --- |
+| "A quick brown fox jumps over the lazy dog" | "" |
+| "A slow yellow fox crawls under the proactive dog" | "bjkmqz" |
+| "Lions, and tigers, and bears, oh my!" | "cfjkpquvwxz" |
+| "" | "abcdefghijklmnopqrstuvwxyz" |
