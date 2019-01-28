@@ -39,7 +39,7 @@ Follow-up: what if you can't use division?
 For example, given `[10, 15, 3, 7]` and `k` of `17`, return true since `10 + 7` is `17`.
 
 
-**Q6** - The sentence "A quick brown fox jumps over the lazy dog" contains every single letter in the alphabet. Such sentences are called pangrams.
+**Q6** **ANSWERED** - The sentence "A quick brown fox jumps over the lazy dog" contains every single letter in the alphabet. Such sentences are called pangrams.
 
 You are to write a method `getMissingLetters`, which takes as input a string containing a sentence and returns all the letters not present at all in the sentence (i.e., the letters that prevent it from being a pangram).
 
