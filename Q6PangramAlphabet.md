@@ -1,6 +1,6 @@
 # Alphabet Pangram Remainder
 
-### Create an algorythm to detect not only if a word is a 'Pangram', but if not, what letters from the alp[habet are missing.
+### Create an algorythm to detect not only if a word is a 'Pangram', but if not, what letters from the alphabet are missing.
 
 Assume ASCii, no whitespace, no special characters, result must be lower case.
 
