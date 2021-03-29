@@ -59,3 +59,9 @@ Accordingly, you should try to write code that runs as quickly as possible. Also
 | "A slow yellow fox crawls under the proactive dog" | "bjkmqz" |
 | "Lions, and tigers, and bears, oh my!" | "cfjkpquvwxz" |
 | "" | "abcdefghijklmnopqrstuvwxyz" |
+
+GO Structure
+
+func main () {
+    fmt.Println("Hello World") 
+}
