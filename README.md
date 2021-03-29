@@ -62,6 +62,8 @@ Accordingly, you should try to write code that runs as quickly as possible. Also
 
 GO Structure
 
+```
 func main () {
     fmt.Println("Hello World") 
 }
+```
