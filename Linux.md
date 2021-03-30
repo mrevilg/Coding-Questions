@@ -20,3 +20,23 @@ After boot, all of the other filesystems are mounted at standard mount points as
 /usr	Contains executables, libraries, man files, etc.
 /var	This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.
 ```
+
+Linux Commands
+```
+whoami - Displays current username.
+id - Returns users identity
+hostname - Sets or prints the name of current host system.
+uname - Prints operating system name.
+pwd - Returns working directory name.
+ifconfig - The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.
+ip - Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.
+netstat - Shows network status.
+ss - Another utility to investigate sockets.
+ps - Shows process status.
+who - Displays who is logged in.
+env - Prints environment or sets and executes command.
+lsblk - Lists block devices.
+lsusb - Lists USB devices
+lsof - Lists opened files.
+lspci - Lists PCI devices.
+```
