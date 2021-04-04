@@ -12,7 +12,7 @@ This is a comment block
 func main() {
 	fmt.Println("Hello World")
 	fmt.Println(t.Now())
-
+	fmt.Println(2235 * 1231)
 	fmt.Println("Using the 'go doc' command is helpful")
 	fmt.Println("You can find out more about a package")
 	fmt.Println("Or about a function inside the package")
