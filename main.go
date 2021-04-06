@@ -29,13 +29,48 @@ func main() {
 	// constant named value
 	const pi = 3.14159
 	
-	// variable named value
+	// variable named value,
 	var radius = 6
+	radius := 6
 
-	// Basic Data Types - int, float, complex
+	// Basic Data Types - int, float, complex.
+
 	/*
 	int8, uint8, int16, uint16, int32 , uint32, int64, uint64, int, uint, uintptr
 	float32, float64
 	complex64, complex128
 	*/
+
+	var publisher, writer, artist, title string
+	var year uint
+	var pageNumber uint
+	var grade float32
+	  
+	title = "Mr.GoToSleep"
+	writer = "Tracey Hatchet"
+	artist = "Jewel Tampson"
+	publisher = "Dizzybooks Publishing Inc"
+	year = 1997
+	pageNumber = 14
+	grade = 6.5
+  
+	fmt.Println(title, "written by", writer, "drawn by", artist)
+	fmt.Println("Publisher:", publisher, "Pgs:", pageNumber, "Yr:", year, "Grade:", grade)
+	fmt.Println()
+  
+	title = "Epic Vol. 1"
+	writer = "Ryan N. Shawn"
+	artist = "Phoebe Paperclips"
+	publisher = "Dizzybooks Publishing Inc"
+	year = 2013
+	pageNumber = 160
+	grade = 9.0
+  
+	fmt.Println(title, "written by", writer, "drawn by", artist)
+	fmt.Println("Publisher:", publisher, "Pgs:", pageNumber, "Yr:", year, "Grade:", grade)
+	fmt.Println()
+
+
+
+
 }
