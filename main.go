@@ -77,6 +77,12 @@ func main() {
 	fmt.Println("There's also a default space", "between the string arguments.")
 	fmt.Print("Print", "is", "different") // no space
 	fmt.Print("See?") // adds to last possible place
+	
+	// %v - Interpolation
 
+	animal1 := "cat"
+	animal2 := "dog"
+	
+	fmt.Printf("Are you a %v or a %v person?", animal1, animal2) // v = 'verb'
 
 }
