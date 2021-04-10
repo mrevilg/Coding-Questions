@@ -101,4 +101,9 @@ func main() {
 	fmt.Printf("You're averaging: %f.", Num2)             // f = 'int to string (float)'
 	fmt.Printf("You're averaging: %.2f.", Num2)           // f = 'int to string (precision float)'
 
+	fmt.Println("How are you doing?")
+	var response string
+	fmt.Scan(&response)
+	fmt.Printf("I'm %v.", response)
+
 }
