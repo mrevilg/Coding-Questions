@@ -106,4 +106,11 @@ func main() {
 	fmt.Scan(&response)
 	fmt.Printf("I'm %v.", response)
 
+	heistReady := false
+	if heistReady {
+		fmt.Println("Let's go!")
+	} else {
+		fmt.Println("Act normal")
+	}
+
 }
