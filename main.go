@@ -113,4 +113,12 @@ func main() {
 		fmt.Println("Act normal")
 	}
 
+	// '!' reverses the logic
+
+	heistReady1 := true // Var set to true, returns opp, logic prints false
+	if !heistReady1 {
+		fmt.Println("Let's go!")
+	} else {
+		fmt.Println("Act normal")
+	}
 }
