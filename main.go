@@ -109,6 +109,8 @@ func main() {
 	heistReady := false
 	if heistReady {
 		fmt.Println("Let's go!")
+	} else if heistReady == true {
+		fmt.Println("else if is working!")
 	} else {
 		fmt.Println("Act normal")
 	}
