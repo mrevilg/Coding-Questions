@@ -123,4 +123,16 @@ func main() {
 	} else {
 		fmt.Println("Act normal")
 	}
+
+	// switch in place of if/else if/ else
+	someVariable := 2
+	switch someVariable {
+	case 1:
+		fmt.Println("I got first place!")
+	case 2:
+		fmt.Println("I got second place!")
+	case 3:
+		fmt.Println("I got third place!")
+	}
+
 }
