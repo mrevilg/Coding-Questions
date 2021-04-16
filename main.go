@@ -135,4 +135,12 @@ func main() {
 		fmt.Println("I got third place!")
 	}
 
+	// short scoping
+
+	if bool := true; bool {
+		fmt.Println("You sound happy")
+	} else {
+		fmt.Println("You don't sound happy!")
+	}
+
 }
