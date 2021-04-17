@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math/rand"
 	t "time"
 )
 
@@ -20,6 +21,9 @@ func main() {
 	fmt.Println("Or about a function inside the package")
 	fmt.Println("Try it out in the terminal!")
 	fmt.Println("go doc fmt.Println") // or time.Now
+
+	someNum := rand.Intn(100000000)
+	fmt.Println("Today's random number is: ", someNum)
 
 	// cannot be update whilst running
 	const constant = "This is a const being called"
