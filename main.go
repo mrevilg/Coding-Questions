@@ -12,6 +12,10 @@ import (
 This is a comment block
 */
 
+func sayHi() {
+	fmt.Println("Hello there! I'm being called!")
+}
+
 func main() {
 	fmt.Println("Hello World")
 	fmt.Println(t.Now())
@@ -22,8 +26,11 @@ func main() {
 	fmt.Println("Try it out in the terminal!")
 	fmt.Println("go doc fmt.Println") // or time.Now
 
-	someNum := rand.Intn(100000000)
+	rand.Seed(t.Now().UnixNano())
+	someNum := rand.Intn(100)
 	fmt.Println("Today's random number is: ", someNum)
+
+	sayHi() // Calling a func outside main
 
 	// cannot be update whilst running
 	const constant = "This is a const being called"
