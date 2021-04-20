@@ -14,6 +14,7 @@ This is a comment block
 
 func sayHi() {
 	fmt.Println("Hello there! I'm being called!")
+	fmt.Print("My scope is outside the main")
 }
 
 func main() {
