@@ -43,6 +43,7 @@ func main() {
 	// constant named value
 	const pi = 3.14159
 
+	// Go is case sensitive
 	/* variable named value,
 
 	var radius = 6
