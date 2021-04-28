@@ -156,8 +156,10 @@ func main() {
 		fmt.Println("You don't sound happy!")
 	}
 
+	// Dereferencing a variable with a pointer '*'
+
 	star := "Polaris"
-	starAddress := &star
+	starAddress := &star    // '&' is address in memory
 	*starAddress = "Sirius" // '*' Dereferences variable and replaces
 
 	fmt.Println("The actual value of star is", star)
