@@ -156,9 +156,10 @@ func main() {
 		fmt.Println("You don't sound happy!")
 	}
 
-	// placeholder text
-	// another placeholder
-	// 3rd placeholder
-	// 4th placeholder
+	star := "Polaris"
+	starAddress := &star
+	*starAddress = "Sirius" // '*' Dereferences variable and replaces
+
+	fmt.Println("The actual value of star is", star)
 
 }
