@@ -50,3 +50,6 @@ gem	Gem is the front-end to RubyGems, the standard package manager for Ruby.
 pip	Pip is a Python package installer recommended for installing Python packages that are not available in the Debian archive. It can work with version control repositories (currently only Git, Mercurial, and Bazaar repositories), logs output extensively, and prevents partial installs by downloading all requirements before starting installation.
 git	Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
 ```
+
+-h : single '-' for letter (which can be concatenated)
+--help : double '--' for whole word
