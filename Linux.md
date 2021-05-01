@@ -53,3 +53,4 @@ git	Git is a fast, scalable, distributed revision control system with an unusual
 
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
+-l : 'l' is longform version like 'ls -l'
