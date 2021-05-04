@@ -57,3 +57,7 @@ git	Git is a fast, scalable, distributed revision control system with an unusual
 'man' : manual for following app
 'locate' xyz : locate any reference to the following keyword
 'whereis' xyz : Find a binary with details
+[], *, ., ',', ? : Wildcards
+find / -type f -name apache2 : Find dir (/) options (-type) expression (-name) (.)
+ps : processes 'ps aux' - all proccesses running
+
