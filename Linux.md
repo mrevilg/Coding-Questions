@@ -62,3 +62,4 @@ find / -type f -name apache2 : Find dir (/) options (-type) expression (-name) (
 ps : processes 'ps aux' - all proccesses running
 cat : will show contents of file
 cat > : will create a file
+cat >> : will appened the file
