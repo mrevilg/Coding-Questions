@@ -61,7 +61,10 @@ git	Git is a fast, scalable, distributed revision control system with an unusual
 find / -type f -name apache2 : Find dir (/) options (-type) expression (-name) (.)
 ps : processes 'ps aux' - all proccesses running
 cat : will show contents of file
-cat > : will create a file
+cat > : will create a file (ctrl + d to exit write mode)
 cat >> : will appened the file
-touch : followed by new filename
-mkdir : followed by new directory name
+touch : will create followed by new filename
+mkdir : will create followed by new directory name
+rmdir : remove directory (unless not empty, use rmdir -r)
+cp : to copy filename
+mv filename newfilename : Moves a file and gives new name
