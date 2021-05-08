@@ -64,3 +64,4 @@ cat : will show contents of file
 cat > : will create a file
 cat >> : will appened the file
 touch : followed by new filename
+mkdir : followed by new directory name
