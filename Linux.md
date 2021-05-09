@@ -68,3 +68,7 @@ mkdir : will create followed by new directory name
 rmdir : remove directory (unless not empty, use rmdir -r)
 cp : to copy filename
 mv filename newfilename : Moves a file and gives new name
+head /1/2/3 pathway : Will give you the head of a file
+tail /1/2/3 : will give you the tail of the file
+tail -20 /a/b/c : will give you last 20 lines
+nl /x/y/z : numberd lines
