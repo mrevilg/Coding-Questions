@@ -72,3 +72,4 @@ head /1/2/3 pathway : Will give you the head of a file
 tail /1/2/3 : will give you the tail of the file
 tail -20 /a/b/c : will give you last 20 lines
 nl /x/y/z : numberd lines
+nl /a/b/c | grep output : numbered line keyword
