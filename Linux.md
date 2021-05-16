@@ -78,3 +78,4 @@ nl /a/b/c | grep output : numbered line keyword 'output'
 PLACEHOLDER TEXT
 Placeholder text 2
 Placeholder 3 (yes I know!)
+Placeholder #4
