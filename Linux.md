@@ -80,3 +80,4 @@ w : user loggin summary
 users : List of current users
 ls -la : ls by line
 more [filename] : view contents of file, pg by pg
+sort [filename] : prints file in sorted order
