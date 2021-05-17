@@ -74,8 +74,7 @@ tail -20 /a/b/c : will give you last 20 lines
 nl /x/y/z : numberd lines
 nl /a/b/c | grep output : numbered line keyword 'output'
 
+hostname : Provides name of current user
+uptime : Displays system uptime
+w : uswer loggin summary
 
-PLACEHOLDER TEXT
-Placeholder text 2
-Placeholder 3 (yes I know!)
-Placeholder #4
