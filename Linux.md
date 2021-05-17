@@ -76,6 +76,6 @@ nl /a/b/c | grep output : numbered line keyword 'output'
 
 hostname : Provides name of current user
 uptime : Displays system uptime
-w : uswer loggin summary
+w : user loggin summary
 users : List of current users
-
+ls -la : ls by line
