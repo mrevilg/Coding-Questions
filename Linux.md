@@ -86,3 +86,4 @@ free : Displays total free, used, and swap memory
 top :  task manager program
 ps -ef | grep sshd
 kill -9 [1234] : sshd returns root processes, kill ends them
+lsof -u : List of open files
