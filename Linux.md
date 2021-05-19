@@ -89,4 +89,5 @@ kill -9 [1234] : sshd returns root processes, kill ends them
 lsof -u : List of open files
 tar : tape archive
 
-useradd [something]: creates new user
+useradd [username]: creates new user
+passwd [username]: creates new password for user
