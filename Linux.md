@@ -79,7 +79,8 @@ uptime : Displays system uptime
 w : user loggin summary
 users : List of current users
 ls -la : ls by line
-more [filename] : view contents of file, pg by pg
+more [filename or pathway] : view contents of file, pg by pg
+less [filename or pathway] : scroll and filter
 sort [filename] : prints file in sorted order
 free : Displays total free, used, and swap memory
 
