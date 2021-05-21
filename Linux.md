@@ -95,4 +95,5 @@ passwd [username]: creates new password for user
 uname -a : Basic Softw/hardw installations
 umount [pathway] : Unmount partitions
 lvremove [pathway] : remove logical volume
-lvcreate [pathway] : create a logical vol within vol group
+lvcreate -L 14GB : create a 14gb logical vol within vol group
+mkfs.xfs [pathway] : format the logical volume
