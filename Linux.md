@@ -93,3 +93,4 @@ tar : tape archive
 useradd [username]: creates new user
 passwd [username]: creates new password for user
 uname -a : Basic Softw/hardw installations
+umount [pathway] : Unmount partitions
