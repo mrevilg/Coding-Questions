@@ -99,3 +99,4 @@ lvcreate -L 14GB : create a 14gb logical vol within vol group
 mkfs.xfs [pathway] : format the logical volume
 
 su [name] : switch user
+mount [pathway]: mounts device or storage
