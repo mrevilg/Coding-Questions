@@ -79,6 +79,7 @@ uptime : Displays system uptime
 w : user loggin summary
 users : List of current users
 ls -la : ls by line
+ls -al : ls hidden files
 more [filename or pathway] : view contents of file, pg by pg
 less [filename or pathway] : scroll and filter
 sort [filename] : prints file in sorted order
@@ -99,6 +100,8 @@ lvcreate -L 14GB : create a 14gb logical vol within vol group
 mkfs.xfs [pathway] : format the logical volume
 
 ifconfig : Details on networks
+iwconfig : Details on wireless capabilities 
 
 su [name] : switch user
+sudo : super user operation!
 mount [pathway]: mounts device or storage
