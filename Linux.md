@@ -100,6 +100,7 @@ lvcreate -L 14GB : create a 14gb logical vol within vol group
 mkfs.xfs [pathway] : format the logical volume
 
 ifconfig : Details on networks
+ifconfig eth0 xxx.yyy.zzz.aaa : change IP address
 iwconfig : Details on wireless capabilities 
 
 su [name] : switch user
