@@ -102,6 +102,7 @@ mkfs.xfs [pathway] : format the logical volume
 ifconfig : Details on networks
 ifconfig eth0 xxx.yyy.zzz.aaa : change IP address
 iwconfig : Details on wireless capabilities 
+ping xxx.yyy.zzz.aaa : ping's given address
 
 su [name] : switch user
 sudo : super user operation!
