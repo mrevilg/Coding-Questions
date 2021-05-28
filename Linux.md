@@ -102,8 +102,12 @@ mkfs.xfs [pathway] : format the logical volume
 ifconfig : Details on networks
 ifconfig eth0 xxx.yyy.zzz.aaa : change IP address
 iwconfig : Details on wireless capabilities 
-ping xxx.yyy.zzz.aaa : ping's given address
+ping xxx.yyy.zzz.aaa : ping's given address (ctrl c to exit)
+arp -a : ststes IP address and MAC association
+netstat -ano : Lists all active connections on machine
+route : Traffic exit
 
 su [name] : switch user
 sudo : super user operation!
 mount [pathway]: mounts device or storage
+
