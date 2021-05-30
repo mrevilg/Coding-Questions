@@ -101,7 +101,6 @@ mkfs.xfs [pathway] : format the logical volume
 
 ifconfig : Details on networks
 ifconfig eth0 xxx.yyy.zzz.aaa : change IP address
-
 ifconfig eth0 down : 1/3 take MAC down 
 ifconfig eth0 down hw ether 00:11:22:33:44:55 - 2/3 spoofing mac adress
 ifconfig eth0 up : 3/3
@@ -116,3 +115,4 @@ su [name] : switch user
 sudo : super user operation!
 mount [pathway]: mounts device or storage
 
+dig xyz.com ns : DNS info an 'ns' name server
