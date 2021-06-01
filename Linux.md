@@ -116,3 +116,5 @@ sudo : super user operation!
 mount [pathway]: mounts device or storage
 
 dig xyz.com ns : DNS info an 'ns' name server
+
+apt-cache
