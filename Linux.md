@@ -119,3 +119,10 @@ mount [pathway]: mounts device or storage
 dig xyz.com ns : DNS info an 'ns' name server
 
 apt-cache
+
+---
+& : Run Commands in the background
+&& : Combine multiple commands into one line
+> - Redirector
+>> - Appends
+---
