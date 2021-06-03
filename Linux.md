@@ -125,4 +125,8 @@ apt-cache
 && : Combine multiple commands into one line
 > - Redirector
 >> - Appends
+
+echo : Send this text somewhere
 ---
+
+placeholder
