@@ -129,5 +129,4 @@ apt-cache
 echo : Send this text somewhere
 ---
 
-placeholder
-placeholder 2
+crontab -e : task automation details
