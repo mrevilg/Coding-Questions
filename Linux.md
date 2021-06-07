@@ -118,7 +118,7 @@ mount [pathway]: mounts device or storage
 
 dig xyz.com ns : DNS info an 'ns' name server
 
-apt-cache
+apt-cache search [keyword] : look for something already installed
 
 ---
 & : Run Commands in the background
