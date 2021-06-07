@@ -120,9 +120,16 @@ dig xyz.com ns : DNS info an 'ns' name server
 
 apt-cache search [keyword] : look for something already installed
 apt update : will update current repository
+apt full-upgrade : will upgrade and trash collect rep if available
 apt list : List all packages
 apt list --installed | grep ^xyz : self-explanitory
 apt show xyz : Details on xyz
+apt remove : Removes xyz, but not assoc data
+apt purge : DEATH TO ALL!!
+
+aptitude : apt on steroids
+
+pip3 install -r nameoffile : Git install requierments
 
 ---
 & : Run Commands in the background
