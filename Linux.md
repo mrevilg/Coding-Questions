@@ -131,6 +131,8 @@ aptitude : apt on steroids
 
 pip3 install -r nameoffile : Git install requierments
 
+traceroute : map pathqway to website
+
 ---
 & : Run Commands in the background
 && : Combine multiple commands into one line
