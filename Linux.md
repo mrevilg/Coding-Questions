@@ -145,10 +145,11 @@ echo : Send this text somewhere
 crontab -e : task automation details
 
 ---
-Nmap
+Nmap - port scans
 
 TCP Connect -sT
 SYN "Half-open" -sS
 UDP Scan -sU
 
+TCP Null -sN
 ---
