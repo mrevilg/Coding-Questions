@@ -153,4 +153,5 @@ UDP Scan -sU
 
 TCP Null -sN
 TCP fin -sF
+TCP Xmas scan -sX
 ---
