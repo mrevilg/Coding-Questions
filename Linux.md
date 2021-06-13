@@ -144,7 +144,10 @@ echo : Send this text somewhere
 
 crontab -e : task automation details
 
-placeholder
-placeholder
-placeholder but remove later
-placeholder for Covid
+---
+Nmap
+
+TCP Connect -sT
+
+
+---
