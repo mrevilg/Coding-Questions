@@ -148,6 +148,7 @@ crontab -e : task automation details
 Nmap
 
 TCP Connect -sT
-
+SYN "Half-open" -sS
+UDP Scan -sU
 
 ---
