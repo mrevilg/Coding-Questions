@@ -152,4 +152,5 @@ SYN "Half-open" -sS
 UDP Scan -sU
 
 TCP Null -sN
+TCP fin -sF
 ---
