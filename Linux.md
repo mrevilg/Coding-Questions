@@ -161,4 +161,4 @@ Ping sweep - ver 2 (nmap -sn 192.168.0.0/24)
 
 Placeholder again thrice!!! must do more today again
 
-Do more this week, just a little each Also use the book
+Set up a daily task
