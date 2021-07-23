@@ -159,4 +159,4 @@ Ping sweep - ver 1 (nmap -sn 192.168.0.1-254)
 Ping sweep - ver 2 (nmap -sn 192.168.0.0/24)
 ---
 
-Daily Euler and coding problem and Code test
+Daily Euler and coding problem and Code test...setting up this weekend.
