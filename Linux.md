@@ -159,6 +159,6 @@ Ping sweep - ver 1 (nmap -sn 192.168.0.1-254)
 Ping sweep - ver 2 (nmap -sn 192.168.0.0/24)
 ---
 
-1. Daily Eurler, ongoing research
-2. Daily Coding chall, ongoing research
-3. Linux Basics book
+1. Daily Eurler, ongoing research - 10mins
+2. Daily Coding chall, ongoing research - 10mins
+3. Linux Basics book - 10mins
