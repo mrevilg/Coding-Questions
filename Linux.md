@@ -159,8 +159,12 @@ Ping sweep - ver 1 (nmap -sn 192.168.0.1-254)
 Ping sweep - ver 2 (nmap -sn 192.168.0.0/24)
 ---
 
+METASPLOIT
+
+msfconsole : to run
+
 1. Daily Eurler/Challenege, ongoing research - 10mins
 2. Daily TryHackMe - 10mins
 3. Linux Basics book - 10mins
 
-Setting up for next run, again x4
+Setting up for next run, again x5
