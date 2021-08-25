@@ -167,4 +167,4 @@ msfconsole : to run
 2. Daily TryHackMe - 10mins
 3. Linux Basics book - 10mins
 
-Setting up for next run, again x6
+Setting up for next run, again x7
