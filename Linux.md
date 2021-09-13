@@ -52,6 +52,8 @@ git	Git is a fast, scalable, distributed revision control system with an unusual
 ```
 apt-get update && apt-get upgrade
 
+cal apr 2017 - presents calendar
+
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
 -l : 'l' is longform version like 'ls -l'
