@@ -53,6 +53,7 @@ git	Git is a fast, scalable, distributed revision control system with an unusual
 apt-get update && apt-get upgrade
 
 cal apr 2017 - presents calendar
+ls /bin
 
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
