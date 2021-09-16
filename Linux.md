@@ -54,6 +54,7 @@ apt-get update && apt-get upgrade
 
 cal apr 2017 - presents calendar
 ls /bin - lists content of bin
+df -h - Partition usage
 
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
