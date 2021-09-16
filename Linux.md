@@ -150,6 +150,7 @@ crontab -e : task automation details
 
 ---
 Nmap - port scans
+Initial steps: nmap -sC -sV -Pn <machine_ip>
 
 TCP Connect -sT
 SYN "Half-open" -sS
