@@ -55,10 +55,12 @@ apt-get update && apt-get upgrade
 cal apr 2017 - presents calendar
 ls /bin - lists content of bin
 df -h - Partition usage
+whois website.com | less - Domain/Registrar 
 
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
--l : 'l' is longform version like 'ls -l'
+-l : 'l' is longform version like 'ls -la'
+--version : Print command line version and then exit
 'man' : manual for following app
 'locate' xyz : locate any reference to the following keyword
 'whereis' xyz : Find a binary with details
