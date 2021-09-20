@@ -28,6 +28,7 @@ id - Returns users identity
 hostname - Sets or prints the name of current host system.
 uname - Prints operating system name.
 pwd - Returns working directory name.
+clear - cleans console completely
 ifconfig - The ifconfig utility is used to assign or to view an address to a network interface and/or configure network interface parameters.
 ip - Ip is a utility to show or manipulate routing, network devices, interfaces and tunnels.
 netstat - Shows network status.
