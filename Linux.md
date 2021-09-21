@@ -21,6 +21,17 @@ After boot, all of the other filesystems are mounted at standard mount points as
 /var	This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.
 ```
 
+Cmdr commands
+```
+CD: <pathway>
+git clone <paste repo SSH>
+git add <filename>
+git commit -m "words"
+git push
+git pull <from GitHub folder>
+```
+
+
 Linux Commands
 ```
 whoami - Displays current username.
