@@ -69,6 +69,14 @@ ls /bin - lists content of bin
 df -h - Partition usage
 whois website.com | less - Domain/Registrar 
 
+/usr/local/share/emacs <scope/scope/catagory/application>
+
+# Catagories for Programs
+bin : Programs
+sbin : Superuser programs
+lib : libraries of code
+
+
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
 -l : 'l' is longform version like 'ls -la'
