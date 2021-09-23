@@ -71,10 +71,16 @@ whois website.com | less - Domain/Registrar
 
 /usr/local/share/emacs <scope/scope/catagory/application>
 
-# Catagories for Programs
+# Categories for Programs
 bin : Programs
 sbin : Superuser programs
 lib : libraries of code
+
+# Categories for documentation
+doc : documentation
+info : docimentatin for internal help system
+man : manual 
+share : program specific file instructions
 
 
 -h : single '-' for letter (which can be concatenated)
