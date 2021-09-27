@@ -82,6 +82,8 @@ info : docimentatin for internal help system
 man : manual 
 share : program specific file instructions
 
+# Categories for configuration
+etc : Config files for system
 
 -h : single '-' for letter (which can be concatenated)
 --help : double '--' for whole word
